@@ -1,6 +1,8 @@
 # Data-Driven-Innovations-in-Supply-Chain-Management-with-Qlik-Insights
 Smartinternz Guided Project on Business Analytics
 
+Demo Link : https://drive.google.com/file/d/13u6haMfMXQ_o-4oK3-v4iAjY9L4JEPuW/view?usp=sharing
+
 
 <h2> Project Flow: </h2>
 
