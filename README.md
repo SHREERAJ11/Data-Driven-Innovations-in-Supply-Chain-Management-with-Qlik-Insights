@@ -130,3 +130,6 @@ Performance testing ensures that the Qlik-based solution performs efficiently un
 
 
 The final phase involves demonstrating the project to stakeholders, showcasing the capabilities of the Qlik insights-driven supply chain management system. Comprehensive documentation is provided, detailing each phase of the project, methodologies used, data sources, visualization techniques, and insights gained, ensuring a clear understanding and facilitating future enhancements.
+
+
+![alt text](ProjectFlow.jpg)
