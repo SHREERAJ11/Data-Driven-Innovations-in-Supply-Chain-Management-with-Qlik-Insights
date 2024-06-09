@@ -45,7 +45,9 @@ A literature survey on the project theme of revolutionizing supply chain managem
 
 
 Data collection is the process of gathering and measuring information on variables of interest in an established systematic fashion that enables one to answer stated research questions, test hypotheses, evaluate outcomes, and generate insights from the data.
-Downloading the Dataset
+<h5> Downloading the Dataset </h5>
+Kaggle Dataset link: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
+
 
 The dataset was downloaded and contains all the meta information regarding the columns described in the CSV files.
 Column Description of the Dataset
