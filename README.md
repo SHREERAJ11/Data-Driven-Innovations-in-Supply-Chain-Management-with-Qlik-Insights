@@ -6,6 +6,8 @@ Demo Link : https://drive.google.com/file/d/13u6haMfMXQ_o-4oK3-v4iAjY9L4JEPuW/vi
 
 <h2> Project Flow: </h2>
 
+![alt text](ProjectFlow.jpg)
+
 <h2> Data-Driven Innovations in Supply Chain Management with Qlik Insights </h2>
 
 <h3> 1. Define Problem / Problem Understanding </h3>
@@ -132,4 +134,4 @@ Performance testing ensures that the Qlik-based solution performs efficiently un
 The final phase involves demonstrating the project to stakeholders, showcasing the capabilities of the Qlik insights-driven supply chain management system. Comprehensive documentation is provided, detailing each phase of the project, methodologies used, data sources, visualization techniques, and insights gained, ensuring a clear understanding and facilitating future enhancements.
 
 
-![alt text](ProjectFlow.jpg)
+
